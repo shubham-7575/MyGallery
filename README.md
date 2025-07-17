@@ -1,7 +1,6 @@
-Created a gallery page with the help Tailwind CSS.
+Created a gallery page with the help of Tailwind CSS.
 
-Created a fun gallery page with the of html and tailwind css where initially the images looks black and white but when you hover on the image transitions into a colorful images 
-and regains its colors and also the image zooms in and the shadow drops.
+Created a fun gallery page with the help of html and tailwind css where initially the images looks black and white but when you hover on the image, the image transitions into a colorful images and regains its original colors and also added the zoom in and shadow drop effect to make it look more good.
 
 
 
